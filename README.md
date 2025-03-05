@@ -11,7 +11,6 @@
 
 - 🌱 I’m currently learning **Android**
 
-- 👨‍💻 All of my projects are available at [https://muraliportfolio.carrd.co/](https://muraliportfolio.carrd.co/)
 
 - 💬 Ask me about **AIML**
 
