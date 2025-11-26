@@ -1,16 +1,37 @@
-## Hi there 👋
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Murali+👋;Aspiring+Data+Analyst+📊;MERN+Stack+Developer+💻;Welcome+to+my+GitHub+Profile!" />
+</p>
 
-<!--
-**murali3633/murali3633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Data:** Python, SQL, Excel, Power BI, Tableau  
+- **Web:** HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, MySQL  
+- **Other:** Git, GitHub  
+
+---
+
+
+
+## 📊 What I'm Working On
+
+- Building **Power BI**, **SQL**, and **Python** projects  
+- Developing **MERN stack** applications  
+- Improving **DSA & problem-solving**  
+- Learning **Android with Kotlin + Firebase**  
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/murali-nadipinti-423a92273/)  
+- 🧑‍💻 [GitHub](https://github.com/murali3633)  
+- ✉️ Email: `muralinadipinti64@gmail.com`
+
+---
+
+<p align="center">
+  <b>“Code, analyze, improve – every single day.”</b>
+</p>
