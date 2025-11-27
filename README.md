@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Murali+👋;Aspiring+Data+Analyst+📊;MERN+Stack+Developer+💻;Welcome+to+my+GitHub+Profile!" />
 </p>
-
+ 
 ---
 
 ## 🔧 Tech Stack
