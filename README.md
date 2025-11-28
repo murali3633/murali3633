@@ -63,3 +63,15 @@
 
 ---
 
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/murali-nadipinti-423a92273/)  
+- 🧑‍💻 [GitHub](https://github.com/murali3633)  
+- ✉️ Email: `muralinadipinti64@gmail.com`
+
+---
+
+<p align="center">
+  <b>“Code, analyze, improve – every single day.”</b>
+</p>
+
