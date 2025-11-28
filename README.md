@@ -1,25 +1,10 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=180&section=header&text=Murali%20Nadipinti&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C6EF5,100:15AABF&height=200&section=header&text=Murali%20Nadipinti&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+There+👋;I'm+Murali+Nadipinti;Aspiring+Data+Analyst+%7C+MERN+Stack+Developer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1200&color=15AABF&center=true&vCenter=true&width=600&lines=Hi+There+👋;I'm+Murali+Nadipinti;Data+Analyst+%7C+MERN+Stack+Developer" />
 
   <br/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
-</p>
-
-<p align="center" style="background-color: #000000;">
-  <a href="https://your-portfolio-url/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5400?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/murali-nadipinti/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/muralinadipinti" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:muralinadipinti@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/master/gifs/Developer.gif" width="400">
 </p>
 
 ---
