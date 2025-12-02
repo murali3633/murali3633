@@ -17,7 +17,7 @@
 - 💻 Growing as a **MERN Stack Developer**  
 - 📊 Love solving real-world problems using **data-driven insights**  
 - 🔥 Building projects in **React, Node.js, MySQL, and Firebase**  
-- 📱 Developed a Deepfake Detection System (XceptionNet + TFLite + Android Kotlin) capable of on-device face/video analysis
+- 📱 Built an on-device Deepfake Detection App using XceptionNet + TFLite + Kotlin
 - 🚀 Open to internships in **Data Analysis, ML, or Full Stack Development**
 
 ---
