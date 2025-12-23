@@ -1,6 +1,6 @@
 <p align="center"> 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C6EF5,100:15AABF&height=200&section=header&text=Murali%20Nadipinti&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
- 
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1200&color=15AABF&center=true&vCenter=true&width=600&lines=Hi+There+👋;I'm+Murali+Nadipinti;Data+Analyst+%7C+MERN+Stack+Developer" />
 
   <br/>
