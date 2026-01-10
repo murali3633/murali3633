@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1200&color=15AABF&center=true&vCenter=true&width=600&lines=Hi+There+👋;I'm+Murali+Nadipinti;Data+Analyst+%7C+MERN+Stack+Developer" />
 
   <br/>
-  <img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/master/gifs/Developer.gif" width="400">
+  <img src="https://raw.githubusercontent.com/soumyajit4419/soumyajit4419/master/gifs/Developer.gif" width="400"> 
 </p>
 
 ---
